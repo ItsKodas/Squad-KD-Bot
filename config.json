@@ -1,16 +1,15 @@
 {
-    "log": "//10.0.0.1/Squad/SquadGame/Saved/Logs/SquadGame.log",
-    "host": "horizons.gg",
+    "log": "C:/Squad/SquadGame/Saved/Logs/SquadGame.log",
+    "host": "domain.com",
     "port": 27165,
     "rcon": {
         "port": 21114,
-        "password": "TGV7VG9nBXgVMW5C"
+        "password": "RCON PASSWORD"
     },
     "discord": {
-        "token": "ODU0MjA3NDcyMzE5MjAxMzAw.YMgksw.aCyHR3KLccXCDJqGLo16kqqGkKs",
-        "guild": "610606066451087370",
-        "channel": "669408058564411393",
-        "message": "894423225138827346",
+        "token": "DISCORD TOKEN",
+        "channel": "CHANNEL ID",
+        "message": "",
         "thumbnail": "https://www.horizons.gg/assets/images/logo-sm-light.png",
         "color": "#2e8fff"
     }
